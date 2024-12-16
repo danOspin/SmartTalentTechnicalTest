@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\repository\\hotelrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\controllers\\hotelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\services\\hotelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|c:\\users\\cdani\\onedrive\\escritorio\\deterioro-main\\deterioro-main\\smarttalenttechnicaltest\\smarttalenttechnicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D17F5DC-56B9-482B-BD05-16A4D8A79A0A}|SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj|solutionrelative:smarttalenttechnicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\AppDbContext.cs",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\AppDbContext.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T15:05:51.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Program.cs",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\Program.cs",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Program.cs",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:41:55.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Entities.cs",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\Entities.cs",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Entities.cs",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\Entities.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAywEoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:46:47.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Repository\\Repository.cs",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\Repository\\Repository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T22:53:24.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HotelsController.cs",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Controllers\\HotelsController.cs",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\Controllers\\HotelsController.cs",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Controllers\\HotelsController.cs",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\Controllers\\HotelsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T01:06:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HotelRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Repository\\HotelRepository.cs",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\Repository\\HotelRepository.cs",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Repository\\HotelRepository.cs",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\Repository\\HotelRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:37:54.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\appsettings.json",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-15T23:15:01.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HotelService.cs",
+              "DocumentMoniker": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Services\\HotelService.cs",
+              "RelativeDocumentMoniker": "SmartTalentTechnicalTest\\Services\\HotelService.cs",
+              "ToolTip": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\Services\\HotelService.cs",
+              "RelativeToolTip": "SmartTalentTechnicalTest\\Services\\HotelService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:56:53.415Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/cristiandanielmurciaospina/RiderProjects/SmartTalentTechnicalTest/SmartTalentTechnicalTest/SmartTalentTechnicalTest.csproj": {}
+    "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj": {}
   },
   "projects": {
-    "/Users/cristiandanielmurciaospina/RiderProjects/SmartTalentTechnicalTest/SmartTalentTechnicalTest/SmartTalentTechnicalTest.csproj": {
+    "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/cristiandanielmurciaospina/RiderProjects/SmartTalentTechnicalTest/SmartTalentTechnicalTest/SmartTalentTechnicalTest.csproj",
+        "projectUniqueName": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj",
         "projectName": "SmartTalentTechnicalTest",
-        "projectPath": "/Users/cristiandanielmurciaospina/RiderProjects/SmartTalentTechnicalTest/SmartTalentTechnicalTest/SmartTalentTechnicalTest.csproj",
-        "packagesPath": "/Users/cristiandanielmurciaospina/.nuget/packages/",
-        "outputPath": "/Users/cristiandanielmurciaospina/RiderProjects/SmartTalentTechnicalTest/SmartTalentTechnicalTest/obj/",
+        "projectPath": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest.csproj",
+        "packagesPath": "C:\\Users\\cdani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cdani\\OneDrive\\Escritorio\\Deterioro-main\\Deterioro-main\\SmartTalentTechnicalTest\\SmartTalentTechnicalTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/cristiandanielmurciaospina/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\cdani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,13 +38,35 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
             }
@@ -62,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
